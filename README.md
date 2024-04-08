@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KAMESH M P
-- 👀 I’m interested in Design and Development
+- 👀 I’m interested in Design and programming
 - 🌱 I’m currently learning Java,Python
-- 💞️ I’m looking to collaborate on Skype
+- 💞️ I’m looking to collaborate on Skype,LINE
 - 📫 How to reach me linkedin
 
 <!---
